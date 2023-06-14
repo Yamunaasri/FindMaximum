@@ -64,8 +64,7 @@ return max
 
 ![Screenshot 2023-06-15 000346](https://github.com/Yamunaasri/FindMaximum/assets/115707860/b05d7933-c4ae-4c2b-9249-c27e4690fc86)
 
-![image](https://github.com/Yamunaasri/FindMaximum/assets/115707860/28b5085d-9834-4760-a556-5279be7f36ba)
-
+![Screenshot 2023-06-15 000255](https://github.com/Yamunaasri/FindMaximum/assets/115707860/194b5f99-5ce2-414f-b902-27b4ea6ba256)
 
 
 ## Result:
